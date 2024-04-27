@@ -1,0 +1,8 @@
+warehouseName,productLine,quantityAvailable,percentage
+East,"Classic Cars",219183,100.00000
+West,"Vintage Cars",124880,100.00000
+North,Motorcycles,69401,52.70108
+North,Planes,62287,47.29892
+South,"Trucks and Buses",35851,45.16377
+South,Ships,26833,33.80322
+South,Trains,16696,21.03301
